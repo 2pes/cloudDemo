@@ -12,6 +12,7 @@
         <module>configserver</module>
         <module>eurkaserver</module>
         <module>order</module>
+        <module>menu</module>
     </modules>
 
 
